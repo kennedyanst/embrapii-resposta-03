@@ -1,0 +1,7 @@
+﻿Item;Valor
+Período inicial da base;2015/01
+Período final da base;2026/05
+Registros mensais;137
+Anos completos observados;11
+Técnica;Regressão linear com tendência + sazonalidade mensal
+Incerteza;Bootstrap dos resíduos, faixa de 95%
