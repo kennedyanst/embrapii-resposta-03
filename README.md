@@ -18,7 +18,7 @@ Para estimar a faixa de incerteza de 95%, foi aplicado bootstrap dos resíduos d
 
 ## Arquivos principais
 
-- `kennedy_anderson_resposta03_projecao_2027_refeito.py`: script principal da análise.
+- `kennedy_anderson_resposta03_projecao_2027.py`: script principal da análise.
 - `Embrapii_seleção_analista_2026_questao03_Estimativa.xlsx`: planilha de entrada da questão, quando permitido pelo processo seletivo.
 
 ## Dependências
@@ -34,19 +34,19 @@ pip install pandas numpy matplotlib openpyxl
 Coloque o script Python e a planilha Excel na mesma pasta e execute:
 
 ```bash
-python resposta03_projecao_2027_refeito.py
+python kennedy_anderson_resposta03_projecao_2027.py
 ```
 
 Para informar manualmente o caminho da planilha:
 
 ```bash
-python resposta03_projecao_2027_refeito.py --input "caminho/para/Embrapii_seleção_analista_2026_questao03_Estimativa.xlsx"
+python kennedy_anderson_resposta03_projecao_2027.py --input "caminho/para/Embrapii_seleção_analista_2026_questao03_Estimativa.xlsx"
 ```
 
 Para salvar os arquivos sem abrir os gráficos na tela:
 
 ```bash
-python resposta03_projecao_2027_refeito.py --no-show
+python kennedy_anderson_resposta03_projecao_2027.py --no-show
 ```
 
 ## Saídas geradas pelo script
