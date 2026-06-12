@@ -18,10 +18,8 @@ Para estimar a faixa de incerteza de 95%, foi aplicado bootstrap dos resíduos d
 
 ## Arquivos principais
 
-- `resposta03_projecao_2027_refeito.py`: script principal da análise.
+- `kennedy_anderson_resposta03_projecao_2027_refeito.py`: script principal da análise.
 - `Embrapii_seleção_analista_2026_questao03_Estimativa.xlsx`: planilha de entrada da questão, quando permitido pelo processo seletivo.
-- `Kennedy_Santos_Resposta_03_Projecao_Indicadores_2027_refeito.docx`: relatório técnico com os resultados.
-- `outputs_questao03/`: pasta criada automaticamente pelo script com tabelas e visuais.
 
 ## Dependências
 
