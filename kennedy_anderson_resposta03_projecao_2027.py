@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Resposta 03 - Projeção de indicadores EMBRAPII para 2027
 Autor: Kennedy Anderson Nascimento Santos
