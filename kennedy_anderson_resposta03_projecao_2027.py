@@ -25,13 +25,15 @@ Como executar
    pip install pandas numpy matplotlib openpyxl
 
 3. Execute no terminal:
-   python resposta03_projecao_2027_refeito.py
+   python kennedy_anderson_resposta03_projecao_2027.py
 
 Observação:
 - Por padrão, o script cria uma pasta chamada "outputs_questao03".
 - Para rodar sem abrir os gráficos na tela, use:
-  python resposta03_projecao_2027_refeito.py --no-show
+  python kennedy_anderson_resposta03_projecao_2027.py --no-show
 """
+
+
 
 from __future__ import annotations
 
