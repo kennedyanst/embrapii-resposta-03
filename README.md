@@ -86,4 +86,4 @@ Os resultados devem ser interpretados como estimativas de apoio ao planejamento,
 
 Substitua o texto abaixo pelo link público do GitHub antes do envio oficial:
 
-`INSERIR_LINK_DO_REPOSITORIO_PUBLICO_APOS_PUBLICACAO`
+`https://github.com/kennedyanst/embrapii-resposta-03`
